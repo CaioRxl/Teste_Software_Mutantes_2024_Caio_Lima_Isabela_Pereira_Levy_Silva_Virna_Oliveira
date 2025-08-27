@@ -1,10 +1,6 @@
 # Tutorial de Testes de Mutação em Python
 
-**Repositório:** Shopping-Mall-Cart-Python-Tests  
-**URL de acesso ao repositório:** [https://github.com/SEU_USUARIO/Shopping-Mall-Cart-Python-Tests](https://github.com/SEU_USUARIO/Shopping-Mall-Cart-Python-Tests)
-
-> Este tutorial faz referência direta ao repositório acima e deverá ser disponibilizado como arquivo `README.md` no próprio repositório.  
-> O link do repositório deve ser enviado na thread do Google Classroom da disciplina, conforme instruções.
+**Repositório:** Shopping-Mall-Cart-Python-Tests
 
 ---
 
@@ -19,16 +15,7 @@ Neste tutorial, aplicamos a técnica de mutação ao repositório **Shopping-Mal
 
 ---
 
-## 2. Objetivos da Atividade
-
-- Executar os testes de mutação conforme o roteiro apresentado no vídeo: *YouTube: Testes de Mutação em Python*.  
-- Documentar todas as etapas em um arquivo `README.md` e em um tutorial em PDF.  
-- Selecionar um projeto Python com testes unitários disponíveis para aplicar a técnica, gerar relatórios de mutantes detectados e sobreviventes.  
-- Identificar limitações dos testes originais, adicionar novos casos e realizar nova rodada de mutação.
-
----
-
-## 3. Ferramentas e Tecnologias Utilizadas
+## 2. Ferramentas e Tecnologias Utilizadas
 
 - **Python 3.7+** – Linguagem de programação principal ([Python.org](https://www.python.org/))  
 - **python3-venv** – Criação de ambientes virtuais ([Documentação](https://docs.python.org/3/library/venv.html))  
@@ -39,7 +26,7 @@ Neste tutorial, aplicamos a técnica de mutação ao repositório **Shopping-Mal
 
 ---
 
-## 4. Descrição do Projeto Utilizado
+## 3. Descrição do Projeto Utilizado
 
 O projeto **Shopping-Mall-Cart-Python-Tests** implementa funcionalidades típicas de um carrinho de compras em Python:
 
@@ -49,7 +36,7 @@ O projeto **Shopping-Mall-Cart-Python-Tests** implementa funcionalidades típica
 
 ---
 
-## 5. Link do Documento de Referência
+## 4. Link do Documento de Referência
 
 O tutorial detalhado com todos os passos está disponível no seguinte link:  
 [Documento do Google](https://docs.google.com/document/d/1oiFMQMmJRQm1-LBk7cSgNghLKkjr3LQawv2ySDpVcSU/edit?usp=sharing)
